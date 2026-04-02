@@ -71,16 +71,15 @@ chehab = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-dh5v6h5xj-tchehabs-projects.vercel.app/api?username=TChehab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-dh5v6h5xj-tchehabs-projects.vercel.app/api/top-langs/?username=TChehab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
+  <img src="./assets/metrics.svg" alt="GitHub Metrics"/>
+</div>
+
+<div align="center">
+  <img src="./assets/achievements.svg" alt="Achievements"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TChehab&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TChehab&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---

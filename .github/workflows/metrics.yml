@@ -20,8 +20,6 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: America/Sao_Paulo
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
       - name: Languages Pie Chart
         uses: lowlighter/metrics@latest

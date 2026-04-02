@@ -16,13 +16,13 @@ chehab = {
     "location":   "Brasília, Brazil",
     "education":  [
         "B.Sc. Computer Science — IDP (8th semester)",
-        "School of Artificial Intelligence — CUHK Shenzen (starting late 2026)",
+        "School of Artificial Intelligence — CUHK Shenzen (starting 2026)",
     ],
     "company":    "MLLC Tech (Co-Founder & AI Developer)",
     "current":    "Data Scientist & DBA @ CRM-DF",
     "languages":  ["Portuguese (native)", "English (fluent)"],
     "interests":  ["LLMs", "RAG", "ETL", "Data Visualization", "Offensive Security"],
-    "hackathons": "🏆 5x top-5 placements, including 1x 1st place",
+    "hackathons": "🏆 5x top-5 placements, including 2× 1st place",
 }
 ```
 
@@ -82,6 +82,10 @@ chehab = {
   <img src="https://streak-stats.demolab.com?user=TChehab&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TChehab&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&hide_border=true" alt="Contribution Graph"/>
+</div>
+
 ---
 
 ## Hackathon Achievements
@@ -89,7 +93,7 @@ chehab = {
 | Event | Year | Project | Result |
 |-------|------|---------|--------|
 | 🥇 Hackaton IDP | 2024.1 | Speech To Libras | **1st Place** |
-| 🥈 Hackaton IDP | 2025.1 | DesabafaAI | **2st Place** |
+| 🥇 Hackaton IDP | 2025.1 | DesabafaAI | **1st Place** |
 | 🥈 Hackaton IDP | 2025.2 | Offensive Security | **2nd Place** |
 | 🥈 AKCIT – Epicentro Goiás | 2025 | DesabafaAI | **2nd Phase** (largest AI hub in Latin America) |
 | 🏅 Hackaton Brasília +TI | 2024.2 | PredAlert | **5th Place** |

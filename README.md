@@ -16,13 +16,13 @@ chehab = {
     "location":   "Brasília, Brazil",
     "education":  [
         "B.Sc. Computer Science — IDP (8th semester)",
-        "School of Artificial Intelligence — CUHK Shenzen (starting 2026)",
+        "School of Artificial Intelligence — CUHK Shenzen (starting late 2026)",
     ],
     "company":    "MLLC Tech (Co-Founder & AI Developer)",
     "current":    "Data Scientist & DBA @ CRM-DF",
     "languages":  ["Portuguese (native)", "English (fluent)"],
     "interests":  ["LLMs", "RAG", "ETL", "Data Visualization", "Offensive Security"],
-    "hackathons": "🏆 5x top-5 placements, including 2× 1st place",
+    "hackathons": "🏆 5x top-5 placements, including 1x 1st place",
 }
 ```
 

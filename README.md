@@ -75,7 +75,7 @@ chehab = {
 </div>
 
 <div align="center">
-  <img src="./assets/achievements.svg" alt="Achievements"/>
+  <img src="./assets/languages.svg" alt="Most Used Languages"/>
 </div>
 
 <div align="center">

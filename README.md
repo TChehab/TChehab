@@ -123,10 +123,6 @@ chehab = {
 
 ---
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=TChehab&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>

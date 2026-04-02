@@ -11,14 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: General Stats + Calendar
+      - name: General Stats
         uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: TChehab
           template: classic
-          base: header, activity, community
+          base: header, community
           config_timezone: America/Sao_Paulo
 
       - name: Languages Pie Chart
@@ -35,3 +35,18 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_threshold: 0%
           config_timezone: America/Sao_Paulo
+
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: TChehab
+          outputs: |
+            assets/snake.svg?palette=github-dark
+            assets/snake.gif?color_snake=58A6FF&color_dots=#0d1117,#1f3a5f,#2e6da4,#58A6FF,#79c0ff

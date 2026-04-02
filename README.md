@@ -83,7 +83,7 @@ chehab = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TChehab&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&hide_border=true" alt="Contribution Graph"/>
+  <img src="./assets/snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---

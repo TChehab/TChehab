@@ -71,13 +71,8 @@ chehab = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TChehab&theme=tokyonight" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TChehab&theme=tokyonight" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TChehab&theme=tokyonight" height="160em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TChehab&theme=tokyonight" height="160em"/>
+  <img height="180em" src="https://github-readme-stats-dh5v6h5xj-tchehabs-projects.vercel.app/api?username=TChehab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-dh5v6h5xj-tchehabs-projects.vercel.app/api/top-langs/?username=TChehab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
 </div>
 
 <div align="center">

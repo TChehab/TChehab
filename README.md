@@ -22,7 +22,7 @@ chehab = {
     "current":    "Data Scientist & DBA @ CRM-DF",
     "languages":  ["Portuguese (native)", "English (fluent)"],
     "interests":  ["LLMs", "RAG", "ETL", "Data Visualization", "Offensive Security"],
-    "hackathons": "🏆 5x top-5 placements, including 2× 1st place",
+    "hackathons": "🏆 5x top-5 placements, including 1× 1st place",
 }
 ```
 
@@ -93,7 +93,7 @@ chehab = {
 | Event | Year | Project | Result |
 |-------|------|---------|--------|
 | 🥇 Hackaton IDP | 2024.1 | Speech To Libras | **1st Place** |
-| 🥇 Hackaton IDP | 2025.1 | DesabafaAI | **1st Place** |
+| 🥈 Hackaton IDP | 2025.1 | DesabafaAI | **2st Place** |
 | 🥈 Hackaton IDP | 2025.2 | Offensive Security | **2nd Place** |
 | 🥈 AKCIT – Epicentro Goiás | 2025 | DesabafaAI | **2nd Phase** (largest AI hub in Latin America) |
 | 🏅 Hackaton Brasília +TI | 2024.2 | PredAlert | **5th Place** |
